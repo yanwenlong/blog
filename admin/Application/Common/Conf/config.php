@@ -1,4 +1,6 @@
 <?php
 return array(
-	//'配置项'=>'配置值'
+  //单模块设计
+  'MULTI_MODULE'        => false,
+  'DEFAULT_MODULE'      => 'Home',
 );
